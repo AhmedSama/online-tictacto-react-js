@@ -1,2 +1,2 @@
-# react js online tic tac to game
+# react js online tictacto game
 
